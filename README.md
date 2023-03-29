@@ -16,17 +16,13 @@ const suelen = {
         fullName: 'Suelen Salvino',
         birthDate: '2000-05-02',
         pronouns: 'she' | 'her',
-        interests: ['music', 'soccer', 'language learning'],
-        motivation: [
-            'Making life easier and smarter through tech',
-        ],
     },
     technical: {
         technologies: {
             mainSkills: ['PHP', 'HTML', 'CSS'],
             dataBase: ['MySQL'],
             tools: ['Linux', 'Git', 'Github'],
-            studying: ['JavaScript', 'Node.js'],
+            studying: ['Laravel'],
         }
     }
 }
