@@ -1,36 +1,21 @@
-## Hello, World! 👋
+# Hello, world! 👋
 
-<div align="center">
-  
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+I'm Suelen Salvino, web development student at [IFPE](https://www.ifpe.edu.br/campus/igarassu)
 
-I'm web development student
+<img width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
 
-<details>
-  <summary> More about me</summary>
-<div align="left">
- 
+[![Linkedin Badge](https://img.shields.io/badge/-Suelen%20Salvino-F22ED2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suelensalvino/)](https://www.linkedin.com/in/suelensalvino/) 
+[![Gmail Badge](https://img.shields.io/badge/-suelensalvinocs@gmail.com-F22ED2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suelensalvinocs@gmail.com)](mailto:suelensalvinocs@gmail.com)
+
 ``` js
 const suelen = {
-    personal: {
-        fullName: 'Suelen Salvino',
-        birthDate: '2000-05-02',
-        pronouns: 'she' | 'her',
-    },
     technical: {
         technologies: {
-            mainSkills: ['PHP', 'HTML', 'CSS'],
+            mainSkills: ['PHP', 'Laravel', 'JavaScript', 'HTML', 'CSS', 'Svelte'],
             dataBase: ['MySQL'],
-            tools: ['Linux', 'Git', 'Github'],
-            studying: ['Laravel'],
+            tools: ['Linux', 'Git', 'Github', 'Figma'],
+            studying: ['React.js'],
         }
     }
 }
 ```
-  </div>
-</details>
-
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Asuelensalvinocs@gmail.com)](mailto:suelensalvinocs@gmail.com)
-[![Linkedin: suelensalvino](https://img.shields.io/badge/-suelensalvino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suelensalvino/)](https://www.linkedin.com/in/suelensalvino/)
-[![GitHub: suelensalvino](https://img.shields.io/github/followers/suelensalvino?label=follow&style=social)](https://github.com/suelensalvino)
-</div>
